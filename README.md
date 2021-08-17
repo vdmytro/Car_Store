@@ -3,4 +3,4 @@ A program that aims to help organize a car store. It includes such functions as 
 
 # Screenshots
 
-![MainPage](https://github.com/vdmytro/Car_Store/doc/MainPage.png?raw=true)
+![MainPage](https://github.com/vdmytro/Car_Store/tree/main/doc/MainPage.png?raw=true)
